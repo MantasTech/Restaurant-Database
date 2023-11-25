@@ -1,8 +1,8 @@
-# 🍕 Data Analysis Project for a Pizzeria
+# 🍕 Data Analysis Project for a Pizza Restaurant
 
 ## Introduction
 
-In this project, I built a database for a fictional pizza place. The goal was to better understand and improve how the restaurant works, focusing on things like orders, what's in stock, and scheduling staff. I used SQL for detailed data work and connected everything to Google Cloud and Looker for clear, visual reports. This project is all about using data smartly to make the restaurant run better.
+In this project, I developed a database for a fictional pizza restaurant. The aim was to enhance understanding and improve operational aspects such as order processing, inventory management, and staff scheduling. I used SQL for detailed data work and connected everything to Google Cloud and Looker Studio for clear, visual reports. This project is all about using data smartly to make the restaurant run better.
 ## Project Overview
 
 - **Data Modeling**: Designed a relational database model using QuickDBD.
@@ -11,14 +11,14 @@ In this project, I built a database for a fictional pizza place. The goal was to
 
 ## 🔗 Data Modeling
 
-I started by designing a data model using QuickDBD to make a data tables and clearly represent the relationships between different aspects of data.
+I started by designing a data model using QuickDBD to make a data tables and clearly represent the relationships between different data elements.
 
  **Data Model Diagram**: 
    ![Entity Relationship Diagram](https://github.com/MantasTech/Restaurant-Database/blob/main/images/Schema.png)
 
 ## ✏️ Data Manipulation
 
-To start querrying the data, first i had to import data model and CSV files into MySQL.
+To begin querying the data, first I had to import the data model and CSV files into MySQL.
 
 ![Entity Relationship Diagram](https://github.com/MantasTech/Restaurant-Database/blob/main/images/tables.png)
 
@@ -150,7 +150,7 @@ FROM
 
 ## 📊 Data Visualization
 
-To finalize the data insights that i get from SQL queries i chose the Looker Studio to make an interactive dashboard and present the key metrics.
+To finalize the data insights obtained from SQL queries, I chose the Looker Studio to make an interactive dashboard and present the key metrics.
 
 Looker Studio [link](https://lookerstudio.google.com/reporting/ccbfff85-91a8-428c-901f-695bae4161c9)
 
