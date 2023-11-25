@@ -2,7 +2,7 @@
 
 A data project for a fictional pizza restaurant, focusing on improving operational aspects like order processing, inventory, and staff scheduling.
 
-## Technologies
+## Tools
 - SQL
 - MySQL
 - Looker Studio
