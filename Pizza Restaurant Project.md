@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, I developed a database for a fictional pizza restaurant. The aim was to enhance understanding and improve operational aspects such as order processing, inventory management, and staff scheduling. I used SQL for detailed data work and connected everything to Google Cloud and Looker Studio for clear, visual reports. This project is all about using data smartly to make the restaurant run better.
+In this project, I developed a database for a fictional pizza restaurant. The aim was to enhance understanding and improve operational aspects such as order processing, inventory management, and staff scheduling. I used SQL for detailed data work and Looker Studio for clear, visual reports. This project is all about using data smartly to make the restaurant run better.
 ## Project Overview
 
 - **Data Modeling**: Designed a relational database model using QuickDBD.
