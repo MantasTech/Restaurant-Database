@@ -11,9 +11,9 @@ In this project, I developed a database for a fictional pizza restaurant. The ai
 
 ## 🔗 Data Modeling
 
-I started by designing a data model using QuickDBD to make a data tables and clearly represent the relationships between different data elements.
+I started by building a data model using QuickDBD to make schema and clearly represent the relationships between different entities.
 
- **Data Model Diagram**: 
+ **Entity Relationship Diagram**: 
    ![Entity Relationship Diagram](https://github.com/MantasTech/Restaurant-Database/blob/main/images/Schema.png)
 
 ## ✏️ Data Manipulation
