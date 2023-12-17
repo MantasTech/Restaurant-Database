@@ -13,4 +13,4 @@ A data project for a fictional pizza restaurant, focusing on improving operation
 - Interactive Dashboard
 
 ## Access
-To access the project, open [Pizza Restaurant Project.md](Pizza%20Restaurant%20Project.md).
+To access the project, open [pizza_restaurant_project.md](pizza_restaurant-project.md).
