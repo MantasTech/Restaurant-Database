@@ -22,9 +22,7 @@ To begin querying the data, first I had to import the data model and CSV files i
 
 ![Entity Relationship Diagram](https://github.com/MantasTech/Restaurant-Database/blob/main/images/tables.png)
 
-### 1.
-
-For the first dashboard i extracted the data related to orders, items, and delivery.
+#### 1. For the first dashboard i extracted the data related to orders, items, and delivery.
 
 ```sql
 -- Query for orders dashboard
@@ -48,9 +46,7 @@ FROM
 
 ![ ](https://github.com/MantasTech/Restaurant-Database/blob/main/images/orders.png)
 
-### 2.
-
-For the second dashboard i had to get the data that would show the stock and assist with inventory management.
+#### 2. For the second dashboard i had to get the data that would show the stock and assist with inventory management.
 
 ```sql
 -- Query for inventory dashboard nr1
@@ -117,8 +113,7 @@ LEFT JOIN ingredient ing ON ing.ing_id = s2.ing_id
 ```
 ![](https://github.com/MantasTech/Restaurant-Database/blob/main/images/stock2.png)
 
-### 3.
-Final dashboard will be focused on staff related insights.
+#### 3. Final dashboard will be focused on staff related insights.
 
 ```sql
 -- Query for staff dashboard
