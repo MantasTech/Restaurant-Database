@@ -7,7 +7,7 @@ In this project, I developed a database for a fictional pizza restaurant. The ai
 
 - **Data Modeling**: Designed a relational database model using QuickDBD.
 - **Data Manipulation**: Wrote SQL queries for in-depth analysis and exploration.
-- **Data Visualization**: Took advantage of Looker Studio and made interactive dashboard.
+- **Data Visualization**: Utilized Looker Studio for interactive dashboard.
 
 ## 🔗 Data Modeling
 
