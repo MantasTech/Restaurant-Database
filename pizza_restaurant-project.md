@@ -26,6 +26,7 @@ To begin querying the data, first I had to import the data model and CSV files i
 
 ```sql
 -- Query for orders dashboard
+
 SELECT
     o.order_id,
     i.item_price,
@@ -50,6 +51,7 @@ FROM
 
 ```sql
 -- Query for inventory dashboard nr1
+
 SELECT
 		s1.item_name,
 		s1.ing_id,
@@ -93,6 +95,7 @@ GROUP BY
 //
 ```sql
 -- Query for inventory dashboard nr2
+
 SELECT
 	s2.ing_name,
 	s2.ordered_weight,
@@ -117,6 +120,7 @@ LEFT JOIN ingredient ing ON ing.ing_id = s2.ing_id
 
 ```sql
 -- Query for staff dashboard
+
 SELECT
 	r.date,
 	s.first_name,
