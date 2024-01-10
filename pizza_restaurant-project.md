@@ -25,8 +25,6 @@ To begin querying the data, first I had to import the data model and CSV files i
 #### 1. For the first dashboard i extracted the data related to orders, items, and delivery.
 
 ```sql
--- Query for orders dashboard
-
 SELECT
     o.order_id,
     i.item_price,
@@ -50,8 +48,6 @@ FROM
 #### 2. For the second dashboard i had to get the data that would show the stock and assist with inventory management.
 
 ```sql
--- Query for inventory dashboard nr1
-
 SELECT
 		s1.item_name,
 		s1.ing_id,
@@ -94,8 +90,6 @@ GROUP BY
 
 //
 ```sql
--- Query for inventory dashboard nr2
-
 SELECT
 	s2.ing_name,
 	s2.ordered_weight,
@@ -119,8 +113,6 @@ LEFT JOIN ingredient ing ON ing.ing_id = s2.ing_id
 #### 3. Final dashboard will be focused on staff related insights.
 
 ```sql
--- Query for staff dashboard
-
 SELECT
 	r.date,
 	s.first_name,
