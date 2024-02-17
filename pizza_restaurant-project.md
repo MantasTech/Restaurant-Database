@@ -143,7 +143,7 @@ FROM
 
 To finalize the data insights obtained from SQL queries, I chose the Looker Studio to make an interactive dashboard and present the key metrics.
 
-Looker Studio [link](https://lookerstudio.google.com/reporting/ccbfff85-91a8-428c-901f-695bae4161c9)
+[Looker Dashboard](https://lookerstudio.google.com/reporting/ccbfff85-91a8-428c-901f-695bae4161c9)
 
 ![Orders](https://github.com/MantasTech/Restaurant-Database/blob/main/images/dashboard_orders.png)
 
